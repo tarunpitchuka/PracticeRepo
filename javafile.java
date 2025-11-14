@@ -15,3 +15,5 @@ class Main {
     System.out.println(b);    // Q
   }
 }
+
+//sample java file is for practice purpose
